@@ -1,0 +1,11 @@
+gradio
+python-dotenv
+docling
+langgraph
+langchain
+langchain-community
+langchain-chroma
+langchain-groq
+chromadb
+sentence-transformers
+rank-bm25
